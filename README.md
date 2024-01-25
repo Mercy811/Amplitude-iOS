@@ -38,7 +38,7 @@ Prerequisites
     ```
 2. Install Test Dependencies via CocoaPods
     ```
-    pod install
+    pod install 
     ```
 
 ## Contributors
